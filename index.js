@@ -3,3 +3,9 @@ function main(){
 }
 
 main()
+
+const anotherOne = () =>  {
+ console.log('this is arrow function')
+}
+
+anotherOne()
