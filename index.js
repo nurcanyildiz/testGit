@@ -9,3 +9,9 @@ const anotherOne = () =>  {
 }
 
 anotherOne()
+
+const newFeature = () => {
+ console.log('New feature is in progress')
+}
+
+newFeature()
