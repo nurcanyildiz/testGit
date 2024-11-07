@@ -15,3 +15,9 @@ const newFeature = () => {
 }
 
 newFeature()
+
+const fixBug = () => {
+ console.log('Hotfix')
+}
+
+fixBug()
